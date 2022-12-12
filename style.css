@@ -682,8 +682,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-
-
 .container {
     max-width: 1000px;
 }
@@ -827,7 +825,7 @@ p {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere2.webp");
+    background-image: url("img/agence-la-panthere2.jpg");
 }
 
 .bg-presentation {
