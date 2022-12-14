@@ -367,6 +367,25 @@ a:hover {
 .center-block{
     width: 100px;
 }
+
+.col-sm-12 p{
+    text-align: center;
+    font-size: 22px;
+    line-height: 24px;
+}
+
+.col-xs-12 p{
+    text-align: center;
+    font-size: 20px;
+    line-height: 21px;
+    font-style: italic;    
+}
+
+.col-xs-12 span{
+    font-style: normal;   
+    opacity: .6;
+}
+
  
                    /* MEDIA QUERIES */
 
@@ -448,6 +467,10 @@ nav .caret {
     margin-bottom: 20px;
 }
 
+.row h2{
+   color: #e4bbac !important;   
+}
+
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
@@ -484,7 +507,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -685,7 +708,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
