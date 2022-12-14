@@ -287,6 +287,8 @@ a:hover {
     font-size: 32px;
 }
 
+                /* NAVIGATION */
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -301,10 +303,10 @@ a:hover {
     line-height: 44px;
 }
 
-.navbar-brand img {
-    max-height: 200px;
+.navbar-brand img {    
     margin: 0 5px 0 0;
-    display: inline;
+    display: inline;  
+    width: 200px;  
 }
 
 .navbar-brand img[src$=svg] {
@@ -361,6 +363,12 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
+.center-block{
+    width: 100px;
+}
+ 
+                   /* MEDIA QUERIES */
 
 @media (min-width: 768px) {
     .site-navigation {
