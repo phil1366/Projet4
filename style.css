@@ -381,11 +381,10 @@ a:hover {
     font-style: italic;    
 }
 
-.col-xs-12 span{
+.col-xs-12 span{             /* Maxime Guibard - bloc 3 */
     font-style: normal;   
-    opacity: .6;
+    opacity: .8;
 }
-
  
                    /* MEDIA QUERIES */
 
@@ -468,7 +467,8 @@ nav .caret {
 }
 
 .row h2{
-   color: #e4bbac !important;   
+    color: white !important;
+    font-weight: bolder;
 }
 
 .mg-lg {
@@ -801,8 +801,8 @@ h4 {
     background-color: #364577;
 }
 
-.bgc-atomic-tangerine {
-    background-color: #F3976C;
+.bgc-atomic-tangerine {       /* footer - bandeau */
+    background-color: #e67845;
 }
 
 .tc-white {
