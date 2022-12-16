@@ -372,6 +372,7 @@ a:hover {
     text-align: center;
     font-size: 22px;
     line-height: 24px;
+    color: black !important;
 }
 
 .col-xs-12 p{
@@ -811,7 +812,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .btn-atomic-tangerine:hover {
